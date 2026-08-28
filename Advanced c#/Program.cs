@@ -80,7 +80,19 @@ namespace Advanced_c_
 
 
 
+            #endregion
+
+            #region Q6 
+            //A generic interface is an interface that uses a type parameter to work with different data types. 
+
+
+            // interface IRepository<T>
+            // {
+            // void Add(T item); T Get(int id);
+            // }   
+
             #endregion 
+
 
 
 
