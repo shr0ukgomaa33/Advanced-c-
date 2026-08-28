@@ -161,7 +161,15 @@ namespace Advanced_c_
             #endregion
 
 
+            #region Q12
 
+            // Multiple constraints can be applied by using multiple constraints in the same where clause. 
+
+            //  معرفتش احلو 
+
+
+
+            #endregion
 
 
 
