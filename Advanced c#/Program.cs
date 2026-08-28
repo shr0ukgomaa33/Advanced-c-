@@ -238,11 +238,14 @@ namespace Advanced_c_
             #region Q18 
             //Static members in generic types are separate for each closed generic type.
 
-            #endregion 
+            #endregion
 
 
+            #region Q19 
 
+            // You can inherit from a generic class by specifying the type argument when inheriting.
 
+            #endregion
 
 
         }
