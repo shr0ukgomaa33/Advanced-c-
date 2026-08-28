@@ -106,6 +106,20 @@ namespace Advanced_c_
 
             #endregion
 
+            #region Q8 
+
+
+            //The class constraint specifies that the generic type must be a reference type. 
+
+            //static void Print<T>(T value) where T : class
+            //{
+            //Console.WriteLine(value);
+            //}
+
+
+
+            #endregion
+
 
 
 
