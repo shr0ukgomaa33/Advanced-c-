@@ -1,4 +1,5 @@
-﻿using System.Runtime.Intrinsics.X86;
+﻿using System.Reflection.Metadata;
+using System.Runtime.Intrinsics.X86;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Advanced_c_
@@ -56,6 +57,19 @@ namespace Advanced_c_
 
 
             #endregion
+
+            #region Q4 
+
+            //
+            //A generic method is a method that uses a type parameter to work with different data types.
+
+            //static void Swap<T>(ref T a, ref T b)
+            //{
+            //T temp = a; a = b; b = temp;
+            //}
+
+            #endregion 
+
 
 
 
