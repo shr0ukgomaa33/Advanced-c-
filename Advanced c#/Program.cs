@@ -15,11 +15,33 @@ namespace Advanced_c_
 
             //We use generics because they: 
             //Provide type safety.
-          //  Improve code reusability.
-//             Reduce the need for casting.
-                //Make code more flexible and maintainable.
+            //  Improve code reusability.
+            //             Reduce the need for casting.
+            //Make code more flexible and maintainable.
 
 
+
+            #endregion
+
+            #region Q2
+
+            // Write a generic class Container<T> with Add and Get methods.
+
+
+            //            class Container<T>
+            //  {
+            //   private T value;
+
+            //  public void Add(T item)
+            //  {
+            //      value = item;
+            //  }
+
+            //   public T Get()
+            //  {
+            //       return value;
+            //     }
+            //  }
 
             #endregion
 
