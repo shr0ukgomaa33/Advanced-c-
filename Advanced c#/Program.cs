@@ -45,6 +45,18 @@ namespace Advanced_c_
 
             #endregion
 
+            #region Q3 
+
+            // Multiple type parameters mean using more than one generic type parameter in a class.
+
+
+            //class Pair<TKey, TValue> {
+            //public TKey Key { get; set; }
+            //public TValue Value { get; set; } }
+
+
+            #endregion
+
 
 
 
