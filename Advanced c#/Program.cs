@@ -145,6 +145,20 @@ namespace Advanced_c_
 
 
 
+            #region Q11
+
+            //A base class constraint specifies that the generic type must inherit from a specific base class. 
+
+            //class Animal
+            //{
+            //}
+            //static void Print<T>(T obj) where T : Animal
+            //{
+            //Console.WriteLine("Animal");
+            //}
+
+
+            #endregion
 
 
 
