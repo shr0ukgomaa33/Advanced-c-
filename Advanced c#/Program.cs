@@ -223,6 +223,15 @@ namespace Advanced_c_
             // IComparer<string> stringComparer = objectComparer; 
 
 
+            #endregion
+
+
+            #region Q17 
+
+
+            // Covariance (out) allows a generic type to use a derived type where a base type is expected.
+            //Contravariance(in) allows a generic type to use a base type where a derived type is expected.
+
             #endregion 
 
 
