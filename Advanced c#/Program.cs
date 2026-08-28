@@ -232,7 +232,14 @@ namespace Advanced_c_
             // Covariance (out) allows a generic type to use a derived type where a base type is expected.
             //Contravariance(in) allows a generic type to use a base type where a derived type is expected.
 
+            #endregion
+
+
+            #region Q18 
+            //Static members in generic types are separate for each closed generic type.
+
             #endregion 
+
 
 
 
