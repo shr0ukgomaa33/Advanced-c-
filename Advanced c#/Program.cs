@@ -129,7 +129,19 @@ namespace Advanced_c_
             //return new T();
             //}
 
-            #endregion 
+            #endregion
+
+            #region Q10 
+
+            // An interface constraint specifies that the generic type must implement a specific interface.
+
+            //static void Print<T>(T value) where T : IComparable<T>
+            //{
+            //Console.WriteLine(value);
+            //}
+
+
+            #endregion
 
 
 
