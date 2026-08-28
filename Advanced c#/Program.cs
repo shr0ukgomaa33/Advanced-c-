@@ -91,7 +91,21 @@ namespace Advanced_c_
             // void Add(T item); T Get(int id);
             // }   
 
-            #endregion 
+            #endregion
+
+            #region Q7 
+
+            //The struct constraint specifies that the generic type must be a value type, such as int, double, or bool. 
+
+            //static void Print<T>(T value) where T : struct
+            //{
+            //Console.WriteLine(value);
+            //}
+
+
+
+            #endregion
+
 
 
 
