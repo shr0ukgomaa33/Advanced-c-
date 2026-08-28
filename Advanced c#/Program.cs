@@ -68,9 +68,19 @@ namespace Advanced_c_
             //T temp = a; a = b; b = temp;
             //}
 
+            #endregion
+
+            #region Q5 
+            //static T FindMax<T>(T a, T b) where T : IComparable<T>
+            //{
+            //return a.CompareTo(b) > 0 ? a : b;
+            //}
+
+
+
+
+
             #endregion 
-
-
 
 
 
