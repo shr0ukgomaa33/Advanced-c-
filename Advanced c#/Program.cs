@@ -213,8 +213,17 @@ namespace Advanced_c_
 
 
 
-            #endregion 
+            #endregion
 
+            #region Q16 
+
+            // Contravariance allows a generic type to use a base type where a more derived type is expected. 
+
+            // IComparer<object> objectComparer = Comparer<object>.Default;
+            // IComparer<string> stringComparer = objectComparer; 
+
+
+            #endregion 
 
 
 
