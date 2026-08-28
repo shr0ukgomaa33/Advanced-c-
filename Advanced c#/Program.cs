@@ -120,6 +120,22 @@ namespace Advanced_c_
 
             #endregion
 
+            #region Q9
+
+            // The new() constraint specifies that the generic type must have a public parameterless constructor.
+
+            //static T Create<T>() where T : new()
+            //{
+            //return new T();
+            //}
+
+            #endregion 
+
+
+
+
+
+
 
 
 
