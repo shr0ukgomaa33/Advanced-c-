@@ -171,9 +171,45 @@ namespace Advanced_c_
 
             #endregion
 
+            #region Q13 
+
+            // The default keyword returns the default value of a generic type. 
+
+
+            #endregion
+
+            #region Q14 
+
+            
+
+
+       //class SafeList<T>
+       // {
+           // private List<T> items = new List<T>();
+
+           // public void Add(T item)
+           // {
+            //    items.Add(item);
+           // }
+
+           // public T Get(int index)
+            {
+           //     if (index >= 0 && index < items.Count)
+            //        return items[index];
+
+            //    return default(T);
+            //}
+        }
+
+            #endregion
+
+
+
+
+
 
 
 
         }
-    }
+}
 }
