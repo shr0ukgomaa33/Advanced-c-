@@ -203,7 +203,17 @@ namespace Advanced_c_
 
             #endregion
 
+            #region Q15 
 
+            // Covariance allows a generic type to use a more derived type where a base type is expected. 
+
+            // 
+            // IEnumerable<string> strings = new List<string>();
+            // IEnumerable<object> objects = strings;
+
+
+
+            #endregion 
 
 
 
@@ -211,5 +221,5 @@ namespace Advanced_c_
 
 
         }
-}
+    }
 }
